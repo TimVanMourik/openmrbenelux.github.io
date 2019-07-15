@@ -1,19 +1,20 @@
-- name: OpenMR Seminar 2020
-  link: #
+- name: OpenMR Benelux Seminar 
+  link: /page-1/
   dropdown:
-    - name: The OpenMR Seminar
-      link: /page-1/
-    - name: Location and Venue
+    - name: OpenMR Benelux Seminar 2020
       link: /page-2/
-    - name: Program
-      link: /page-3/
-    - name: Speakers
-      link: /page-4/
-    - name: Register here
-      link: /page-5/
-- name: Meet the team
-  link: /products/
-- name: Open Science news
-  link: /blog/
-- name: Contact
-  link: /page-6/
+      dropdown:
+      - name: Location and Venue
+        link: /page-2a/
+      - name: Program
+        link: /page-2b/
+      - name: Speakers
+        link: /page-2c/
+      - name: Registration
+        link: /page-2d/
+- name: Meet the Team!
+  link: /page-3/
+- name: Open Science News
+  link: /page-4/
+- name: Contact Us
+  link: /page-5/
