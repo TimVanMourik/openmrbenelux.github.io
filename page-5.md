@@ -1,9 +1,8 @@
 ---
-title: Contact
+title: Contact Us
 subtitle: We would love to hear from you!
 layout: page
 show_sidebar: false
-#hero_image: assets/ext_images/Home_logo.png
 ---
 
-## Contact us
+## <span style="color:#004777"> Contact us: </span>
