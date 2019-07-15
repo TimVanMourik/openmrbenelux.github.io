@@ -1,0 +1,10 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: OpenMR Benelux Seminar
+    link: /page-1/
+    icon: fa-brain
+  - name: OpenMR Benelux Seminar 2020
+    link: /page-2/
+    icon: fa-calendar-check
