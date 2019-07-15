@@ -1,0 +1,19 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: OpenMR Benelux Seminar 2020
+    link: /page-2/
+    icon: fa-brain
+  - name: Location and Venue
+    link: /page-2a/
+    icon: fa-map-marker-alt
+  - name: Program
+    link: /page-2b/
+    icon: fa-clipboard-list
+  - name: Speakers
+    link: /page-2c/
+    icon: fa-microphone-alt
+  - name: Registration
+    link: /page-2d/
+    icon: fa-user-edit
